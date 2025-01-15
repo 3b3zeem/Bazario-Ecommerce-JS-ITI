@@ -28,7 +28,7 @@ An e-commerce platform for purchasing glasses. This repository contains all the 
 
 2. Navigate to the project directory:
     ```bash
-    cd your-repository-name
+    cd Bazario-Ecommerce-JS-ITI
     ```
 
 3. Install dependencies:
