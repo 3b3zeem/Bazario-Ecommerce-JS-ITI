@@ -23,7 +23,7 @@ An e-commerce platform for purchasing glasses. This repository contains all the 
 
 1. Clone the repository:
     ```bash
-    git clone [https://github.com/your-username/your-repository-name.git](https://github.com/3b3zeem/Bazario-Ecommerce-JS-ITI.git)
+    git clone https://github.com/3b3zeem/Bazario-Ecommerce-JS-ITI.git
     ```
 
 2. Navigate to the project directory:
