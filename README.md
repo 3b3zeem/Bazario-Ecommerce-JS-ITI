@@ -38,7 +38,7 @@ An e-commerce platform for purchasing glasses. This repository contains all the 
 
 ### Demo
 
-Click here to view the demo: [Demo Link](bazario-glasses.netlify.app)
+Click here to view the demo: [bazario-glasses.netlify.app](https://bazario-glasses.netlify.app/)
 
 ### Screenshots
 
